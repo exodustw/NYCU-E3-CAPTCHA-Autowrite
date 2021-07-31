@@ -36,3 +36,7 @@ Disable these lines in "Flask API/cnn_loader.py":
 
 Warning: This method can't be used with tensorflow-gpu version.
 ----------------------------------------
+License
+
+Creative Commons License BY-NC-ND
+*DO NOT USE THIS AS YOUR PROGRAMMING CLASS PROJECT/HOMEWORK*
