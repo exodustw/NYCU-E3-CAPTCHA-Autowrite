@@ -38,5 +38,5 @@ Warning: This method can't be used with tensorflow-gpu version.
 ----------------------------------------
 License
 
-Creative Commons License BY-NC-ND
+Creative Commons License BY-NC-SA	
 *DO NOT USE THIS AS YOUR PROGRAMMING CLASS PROJECT/HOMEWORK*
